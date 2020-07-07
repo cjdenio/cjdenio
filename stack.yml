@@ -4,9 +4,11 @@
   logoColor: FFFFFF
   color: 007ACC
   projects:
-    - https://github.com/Standard-Structure/struct
+    - url: https://github.com/Standard-Structure/struct
+      wip: true
     - https://github.com/cjdenio/hackclub-ship
-    - https://github.com/deniosoftware/frcbot-2.0
+    - url: https://github.com/deniosoftware/frcbot-2.0
+      wip: true
 - name: Go
   logo: go
   url: https://golang.org
@@ -14,3 +16,13 @@
   color: 00ADD8
   projects:
     - https://github.com/cjdenio/birthdaybot
+    - url: https://github.com/cjdenio/upload-scheduler
+      wip: true
+- name: Vue.js
+  logo: vue.js
+  url: https://vuejs.org
+  logoColor: FFFFFF
+  color: 4FC08D
+  projects:
+    - url: https://github.com/cjdenio/upload-scheduler
+      wip: true
