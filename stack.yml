@@ -1,0 +1,16 @@
+- name: TypeScript
+  logo: typescript
+  url: https://typescriptlang.org
+  logoColor: FFFFFF
+  color: 007ACC
+  projects:
+    - https://github.com/Standard-Structure/struct
+    - https://github.com/cjdenio/hackclub-ship
+    - https://github.com/deniosoftware/frcbot-2.0
+- name: Go
+  logo: go
+  url: https://golang.org
+  logoColor: FFFFFF
+  color: 00ADD8
+  projects:
+    - https://github.com/cjdenio/birthdaybot
