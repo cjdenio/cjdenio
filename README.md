@@ -2,17 +2,33 @@
 
 
 
+
+
+
+
 I'm Caleb Denio, a fullstack developer with a love for TypeScript and Vue.
+
+
+
+
 
 
 
 🌎 https://calebdenio.me
 
+
+
 📨 [caleb@deniosoftware.com](mailto:caleb@deniosoftware.com)
+
+
 
 💻 https://codepen.io/cjdenio
 
+
+
 💼 https://linkedin.com/in/calebdenio
+
+
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
