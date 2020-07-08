@@ -1,6 +1,6 @@
 - name: TypeScript
   logo: typescript
-  url: https://typescriptlang.org
+  url: https://www.typescriptlang.org
   logoColor: FFFFFF
   color: 007ACC
   projects:
@@ -25,4 +25,15 @@
   color: 4FC08D
   projects:
     - url: https://github.com/cjdenio/upload-scheduler
+      wip: true
+- name: Docker
+  logo: docker
+  url: https://www.docker.com
+  logoColor: FFFFFF
+  color: 2496ED
+  projects:
+    - https://github.com/cjdenio/birthdaybot
+    - url: https://github.com/cjdenio/upload-scheduler
+      wip: true
+    - url: https://github.com/deniosoftware/frcbot-2.0
       wip: true
