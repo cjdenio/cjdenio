@@ -7,7 +7,7 @@
     - url: https://github.com/Standard-Structure/struct
       wip: true
     - https://github.com/cjdenio/hackclub-ship
-    - url: https://github.com/deniosoftware/frcbot-2.0
+    - url: https://github.com/cjdenio/frcbot-2.0
       wip: true
 - name: Go
   logo: go
@@ -25,6 +25,8 @@
   color: 4FC08D
   projects:
     - url: https://github.com/cjdenio/upload-scheduler
+      wip: true
+    - url: https://github.com/cjdenio/reminder-app
       wip: true
 - name: Docker
   logo: docker
