@@ -13,6 +13,7 @@
   logo: javascript
   logoColor: FFFFFF
   color: F7DF1E
+  url: https://nodejs.org
   projects:
     - https://github.com/deniosoftware/trello-display
 - name: Go
