@@ -9,6 +9,12 @@
     - https://github.com/cjdenio/hackclub-ship
     - url: https://github.com/cjdenio/frcbot-2.0
       wip: true
+- name: JavaScript
+  logo: javascript
+  logoColor: FFFFFF
+  color: F7DF1E
+  projects:
+    - https://github.com/deniosoftware/trello-display
 - name: Go
   logo: go
   url: https://golang.org
@@ -24,6 +30,7 @@
   logoColor: FFFFFF
   color: 4FC08D
   projects:
+    - https://github.com/deniosoftware/trello-display
     - url: https://github.com/cjdenio/upload-scheduler
       wip: true
     - url: https://github.com/cjdenio/reminder-app
@@ -38,4 +45,14 @@
     - url: https://github.com/cjdenio/upload-scheduler
       wip: true
     - url: https://github.com/deniosoftware/frcbot-2.0
+      wip: true
+    - url: https://github.com/cjdenio/contributor_list
+      wip: true
+- name: Python
+  logo: python
+  url: https://python.org
+  logoColor: FFFFFF
+  color: 3776AB
+  projects:
+    - url: https://github.com/cjdenio/contributor_list
       wip: true
