@@ -48,7 +48,6 @@
     - url: https://github.com/deniosoftware/frcbot-2.0
       wip: true
     - url: https://github.com/cjdenio/contributor_list
-      wip: true
 - name: Python
   logo: python
   url: https://python.org
@@ -56,4 +55,3 @@
   color: 3776AB
   projects:
     - url: https://github.com/cjdenio/contributor_list
-      wip: true
