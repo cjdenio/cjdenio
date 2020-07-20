@@ -25,6 +25,8 @@
     - https://github.com/cjdenio/birthdaybot
     - url: https://github.com/cjdenio/upload-scheduler
       wip: true
+    - url: https://github.com/cjdenio/slack-frames
+      wip: true
 - name: Vue.js
   logo: vue.js
   url: https://vuejs.org
@@ -35,6 +37,8 @@
     - url: https://github.com/cjdenio/upload-scheduler
       wip: true
     - url: https://github.com/cjdenio/reminder-app
+      wip: true
+    - url: https://github.com/cjdenio/slack-frames
       wip: true
 - name: Docker
   logo: docker
