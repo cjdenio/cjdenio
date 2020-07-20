@@ -10,7 +10,7 @@ I'm **Caleb Denio**, a fullstack developer with a love for TypeScript and Vue.
 
 💼 https://linkedin.com/in/calebdenio
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true&theme=tokyonight)
 
 ## Open source contributions
 
