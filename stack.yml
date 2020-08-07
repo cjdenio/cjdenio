@@ -22,9 +22,8 @@
   logoColor: FFFFFF
   color: 00ADD8
   projects:
-    - https://github.com/cjdenio/birthdaybot
-    - url: https://github.com/cjdenio/upload-scheduler
-      wip: true
+    - url: https://github.com/cjdenio/birthdaybot
+    - url: https://github.com/cjdenio/replier
     - url: https://github.com/cjdenio/slack-frames
       wip: true
 - name: Vue.js
@@ -34,10 +33,6 @@
   color: 4FC08D
   projects:
     - https://github.com/deniosoftware/trello-display
-    - url: https://github.com/cjdenio/upload-scheduler
-      wip: true
-    - url: https://github.com/cjdenio/reminder-app
-      wip: true
     - url: https://github.com/cjdenio/slack-frames
       wip: true
 - name: Docker
@@ -46,9 +41,8 @@
   logoColor: FFFFFF
   color: 2496ED
   projects:
-    - https://github.com/cjdenio/birthdaybot
-    - url: https://github.com/cjdenio/upload-scheduler
-      wip: true
+    - url: https://github.com/cjdenio/birthdaybot
+    - url: https://github.com/cjdenio/replier
     - url: https://github.com/deniosoftware/frcbot-2.0
       wip: true
     - url: https://github.com/cjdenio/contributor_list
