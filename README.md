@@ -1,6 +1,10 @@
 # Howdy! 👋
 
-I'm **Caleb Denio**, a fullstack developer with a love for TypeScript and Vue.
+I'm **Caleb Denio**, a fullstack developer and active [Hack Club](https://hackclub.com) member!
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true&theme=tokyonight)
+
+## 📝 Get In Touch:
 
 🌎 https://calebdenio.me
 
@@ -10,7 +14,7 @@ I'm **Caleb Denio**, a fullstack developer with a love for TypeScript and Vue.
 
 💼 https://linkedin.com/in/calebdenio
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true&theme=tokyonight)
+You can also find me on the [Hack Club Slack!](hackclub.com/slack/)
 
 ## Open source contributions
 
@@ -29,6 +33,10 @@ I'm **Caleb Denio**, a fullstack developer with a love for TypeScript and Vue.
 - [bitfocus/companion-module-obs-studio](https://github.com/bitfocus/companion-module-obs-studio)
 
 - [Matt-Gleich/profile_stack](https://github.com/Matt-Gleich/profile_stack)
+
+- [slack-go/slack](https://github.com/slack-go/slack)
+
+- [hackclub/awesome_hackclub_auto](https://github.com/hackclub/awesome_hackclub_auto) ✨
 
 ## My stack
 
