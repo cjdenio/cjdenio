@@ -4,7 +4,7 @@ I'm **Caleb Denio**, a fullstack developer and active [Hack Club](https://hackcl
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true&theme=tokyonight)
 
-## 📝 Get In Touch:
+## 📝 Get in touch:
 
 🌎 https://calebdenio.me
 
