@@ -38,8 +38,11 @@ You can also find me on the [Hack Club Slack!](https://hackclub.com/slack)
 
 - [hackclub/awesome_hackclub_auto](https://github.com/hackclub/awesome_hackclub_auto) ✨
 
+- [Matt-Gleich/fgh](https://github.com/Matt-Gleich/fgh)
+
 ## My stack
 
+<!-- prettier-ignore-start -->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
@@ -50,5 +53,6 @@ You can also find me on the [Hack Club Slack!](https://hackclub.com/slack)
 | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com) | [![birthdaybot](https://img.shields.io/static/v1?label=&message=birthdaybot&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/cjdenio/birthdaybot) [![replier](https://img.shields.io/static/v1?label=&message=replier&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/cjdenio/replier) [![frcbot-2.0](https://img.shields.io/static/v1?label=&message=frcbot-2.0%20%28WIP%29&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/deniosoftware/frcbot-2.0) [![contributor_list](https://img.shields.io/static/v1?label=&message=contributor_list&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/cjdenio/contributor_list) |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://python.org) | [![contributor_list](https://img.shields.io/static/v1?label=&message=contributor_list&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/cjdenio/contributor_list) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+<!-- prettier-ignore-end -->
 
 ![](https://github-profile-trophy.vercel.app/?username=cjdenio&theme=onedark)
