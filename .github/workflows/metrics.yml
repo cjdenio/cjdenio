@@ -33,4 +33,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
 
-          plugin_projects: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: no # Print detailed audit metrics
+          plugin_pagespeed_screenshot: no # Display a screenshot of your website
+          plugin_pagespeed_url: https://calebden.io # Website to audit (defaults to your GitHub linked website)
