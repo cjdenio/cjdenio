@@ -15,3 +15,5 @@ I'm **Caleb Denio**, a fullstack developer and active [Hack Club](https://hackcl
 💼 https://linkedin.com/in/calebdenio
 
 You can also find me on the [Hack Club Slack!](https://hackclub.com/slack)
+
+![Metrics](github-metrics.svg)
