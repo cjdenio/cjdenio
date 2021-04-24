@@ -25,15 +25,8 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 6
 
-          plugin_notable: yes
-
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: no # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no # Display a screenshot of your website
-          plugin_pagespeed_url: https://calebden.io # Website to audit (defaults to your GitHub linked website)
