@@ -6,7 +6,7 @@ I'm **Caleb Denio**, a fullstack developer and active [Hack Club](https://hackcl
 
 ## 📝 Get in touch:
 
-🌎 https://calebdenio.me
+🌎 https://calebden.io
 
 📨 [caleb@deniosoftware.com](mailto:caleb@deniosoftware.com)
 
