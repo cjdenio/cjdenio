@@ -1,19 +1,15 @@
-# Hi there! 👋
+👋 Hi there. I'm Caleb.
 
-I'm **Caleb Denio**, a fullstack developer and active [Hack Club](https://hackclub.com) member!
+I'm currently a high-school student who likes coding. A lot.
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdenio&show_icons=true&theme=tokyonight) -->
+Most of my work is built with Go, Rust, TypeScript, and Ruby.
 
-## 📝 Get in touch:
+I'm most proud of:
 
-🌎 https://calebden.io
+- [Underpass](https://github.com/cjdenio/underpass) (Go)
+- [shorty](https://github.com/cjdenio/shorty) (Rust)
+- [Resolute](https://github.com/resoluteapp/resolute) (Ruby)
 
-📨 [caleb@deniosoftware.com](mailto:caleb@deniosoftware.com)
+I'm also an active [Hack Club](https://hackclub.com) member and contributor.
 
-💻 https://codepen.io/cjdenio
-
-💼 https://linkedin.com/in/calebdenio
-
-You can also find me on the [Hack Club Slack!](https://hackclub.com/slack)
-
-![Metrics](github-metrics.svg)
+Best way to get in touch with me right now is probably [Twitter DMs](https://twitter.com/CalebDenio).
