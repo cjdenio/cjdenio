@@ -1,6 +1,6 @@
 👋 Hi there. I'm Caleb.
 
-I'm simply an 18-year-old person who writes code.
+I'm simply a 19-year-old person who writes code.
 
 Most of my work is built with Go, Rust, TypeScript, and Ruby.
 
