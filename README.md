@@ -10,6 +10,6 @@ I'm most proud of:
 - [shorty](https://github.com/cjdenio/shorty) (Rust)
 - ~~[Resolute](https://github.com/resoluteapp/resolute) (Ruby)~~ work in progress
 
-I'm currently an engineer on [Hack Club Bank](https://hackclub.com/bank). Teenager? You should join [the Slack](https://hackclub.com/slack)!
+I'm currently an engineer on [HCB](https://hackclub.com/hcb). Teenager? You should join [the Slack](https://hackclub.com/slack)!
 
 Best way to get in touch with me right now is probably [Twitter DMs](https://twitter.com/CalebDenio).
