@@ -10,4 +10,6 @@ I'm most proud of:
 - [Underpass](https://github.com/cjdenio/underpass) (Go)
 - [shorty](https://github.com/cjdenio/shorty) (Rust)
 
+Every project here was built myself using old-fashioned ✨hand programming✨.
+
 I can be reached at [me@calebden.io](mailto:me@calebden.io). Send me your favorite Mario character!
